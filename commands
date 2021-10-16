@@ -1,0 +1,3 @@
+kubectl get nodes 
+kubeectl get ns 
+kubectl describe node
